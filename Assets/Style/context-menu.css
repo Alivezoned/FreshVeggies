@@ -1,0 +1,50 @@
+/* Author: Alivezoned.com - Dhruv Kumar */
+            .custom-menu {
+                display: none;
+				z-index: 1000;
+				min-width: 258px;
+				position: absolute;
+				overflow: hidden;
+				border: 1px solid #B9B9B9;
+				white-space: nowrap;
+				font-family: sans-serif;
+				background: #FFF;
+				color: #212121;
+				border-radius: 0px;
+				padding: 2px 0px 2px 0px;
+				font-size: 12px;
+				box-shadow: 3px 3px 2px -1px #9C9C9C;
+            }
+
+            .custom-menu .hover-disable, .custom-menu .hover-allow {
+                padding: 5px 0px 5px 23px;
+                cursor: context-menu;
+                list-style-type: none;
+            }
+
+            .custom-menu .hover-allow:hover, .custom-menu .hover-allow:hover > .context-shortcut {
+                color: white;
+				background-color: #4481F2;
+            }
+			
+			.hover-disable {
+				color: #A0A091;
+			}
+			
+			.hr-style {
+			    margin-top: -16px;
+			}
+			
+			.hr-style hr {
+				border: none;
+				height: 1px;
+				background: #E9E9E9;
+			}
+
+			.context-shortcut {
+				float: right; 
+				margin-right: 23px;
+                color: #A1A192;
+			}
+
+            

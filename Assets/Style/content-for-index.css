@@ -1,0 +1,31 @@
+            .content {
+                min-height: 500px;
+            }
+            
+            .company_desc {
+                text-align: left;
+                color: #656565;
+                border: 2px solid #E2E2E2;
+                padding: 16px;
+                max-width: 450px;
+                margin: 0 auto;
+            }
+            
+            .desc_img {
+                padding: 15px;
+                text-align: center;
+                width: 40%;
+                margin: 0 auto;
+            }
+            
+            .desc_img img {
+                height: 200px;
+            }
+            
+            .desc_holder {
+                position: absolute;
+                display: inline-flexbox;
+                display: inline-flex;
+                padding: 5px;
+                min-width: 1000px;      
+            }

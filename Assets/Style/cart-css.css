@@ -1,0 +1,142 @@
+.product-box ul,.product-box li {
+list-style-type: none;
+}
+.product-box {
+border: 1px solid #D3D3D3;
+border-radius: 3px;
+margin: 2px auto;
+padding: 5px;
+max-width: 400px;
+height: 100px;
+box-shadow: 0px 0px 5px #D3D3D3;
+}
+.product-box img {
+height: 65px;
+width: 70px;
+}
+.product-details li {
+display: block;
+padding: 5px;
+font-size: 13px;
+font-family: sans-serif;
+}
+.product-box ul input {
+max-width: 30px;
+padding: 2px;
+border: 1px solid rgb(220,220,220);
+border-radius: 50px;
+color: rgb(110,110,110);
+text-align: center;
+font-size: 11px;
+height: 21px;
+}
+.product-box ul {
+padding: 4px;
+margin: 4px;
+float: left;
+}
+.product-price, .product-name {
+padding: 4px;
+margin: 5px;
+font-family: cambria, calibri, sans-serif;
+}
+.product-list-price {
+box-shadow: 0px 0px 2px 1px rgb(230,230,230);
+border: 1px solid rgb(230,230,230);
+border-radius: 50px;
+background: #F9F9F9;
+color: rgb(120,120,120);
+min-width: 145px;
+max-width: 146px;
+}
+.product-name {
+font-weight: bold;
+color: rgb(100,100,100);
+}
+.product-amount {
+font-size: 12px;
+color: #6C6C6C;
+}
+.close-btn {
+padding: 0px 0px 20px 0px;
+float: right;
+
+font-family: calibri,sans-serif;
+font-size: 15px;
+border-radius: 50px;
+height: 20px; width: 23px;
+text-align: center;
+color: white;
+background: linear-gradient(#E1E1E1,#8F8F8F);
+border: 1px solid #999999;
+transition: 0.2s all linear;
+}
+.close-btn:hover {
+background: linear-gradient(#008E79,#36BDA8);
+color: white;
+box-shadow: 0px 0px 2px rgb(130,130,130);
+transition: 0.2s all linear;
+}
+#DataList1 
+{
+    width: 100%;
+    max-height: 600px;
+    overflow: scroll;
+}
+.check-out 
+{
+    text-align: center;
+}
+.check-out div 
+{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.check-out-bg 
+{
+    margin-top: 10px;
+    padding: 20px;
+    background: linear-gradient(#F5F5F5,#DDDDDD);
+    box-shadow: 0px 3px 2px -1px #898989;
+}
+#check_out_btn 
+{
+    box-shadow: 3px 4px 5px -4px #686868;
+    font-weight: bold;
+    max-width: 150px;
+    text-align: center;
+    padding: 10px 20px 11px 17px;
+    margin: 5px auto;
+    border: 2px solid rgb(89, 154, 144);
+    background: linear-gradient(#36BDA8,#008E79);
+    border-radius: 50px;
+    font-size: 20px;
+    font-family: calibri,sans-serif,sans;
+    color: white;
+    transition: 0.2s all linear;
+}
+#check_out_btn:hover 
+{
+    box-shadow: 3px 4px 6px -3px rgb(90,90,90);
+    background: linear-gradient(#3BD1BA,#0C8775);
+    transition: 0.2s all linear;
+}
+.hr_tag 
+{
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(217, 217, 217), rgba(0, 0, 0, 0)); 
+    border: 0; height: 1px;
+}
+#total_price 
+{
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Calibri,sans-serif;
+    color: rgb(120,120,120);
+}
+#total_price span 
+{
+    color: #8BC34A;
+}

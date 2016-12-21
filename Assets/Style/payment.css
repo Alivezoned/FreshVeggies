@@ -1,0 +1,95 @@
+
+        li 
+        {
+            list-style-type: none;
+        }
+        .pay_form_holder 
+        {
+                border-radius: 5px;
+                box-shadow: 1px 1px 5px #A3A3A3;
+                max-width: 500px;
+                border: 1px solid #D2D2D2;
+                background: linear-gradient(#FFE6C0,#FFCC82,#FFE3BB);
+                padding: 20px;
+                margin: 0 auto;
+        }
+        .pay_form 
+        {
+            box-shadow: 2px 2px 2px -1px #A1A1A1;
+            padding: 15px;
+            background: linear-gradient(#F8F8F8,#FFFFFF,#FAFAFA);
+            border-radius: 5px;
+            margin: 10px auto;
+        }
+        .login_text_labels 
+        {
+            font-size: 15px;
+            font-family: Calibri, Sans-Serif;
+            color: rgb(120,120,120);
+            padding: 5px;
+            min-width: 100px;
+        }
+        .txtbox_list li 
+        {
+            padding: 5px;
+            text-align: right;
+        }
+        .txtbox_list 
+        {
+            padding: 0;
+            margin: 0 auto;
+        }
+        #pay_amount 
+        {
+            background: linear-gradient(white,#F3F3F3);
+            margin-right: 3px;
+            border-radius: 50px;
+            font-family: calibri, sans-serif;
+            font-weight: bold;
+            padding: 5px;
+            margin-left: 3px;
+            color: #6B6B6B;
+            box-shadow: 0px 0px 1px #3F3F3F;
+        }
+        .txt_box 
+        {
+            margin-left: 10px;
+            box-shadow: 2px 2px 4px -2px #787878;
+            padding: 4px;
+            border-radius: 20px;
+            border: 1px inset gainsboro;
+            text-align: left;
+            min-width: 290px;
+        }
+        #txt_expiry_month, #txt_expiry_year 
+        {
+            min-width: 132px;
+            max-width: 132px;
+        }
+        #btn_pay 
+        {
+            font-family: calibri, sans,sans-serif;
+            border: 1px solid #E1E1E1;
+            background: linear-gradient(#F9F9F9,#EFEFEF);
+            border-radius: 5px;
+            box-shadow: 0px 1px 3px -1px #4A4A4A;
+            padding: 15px;
+            font-size: 14px;
+            font-weight: bold;
+            color: #717171;
+            transition: 0.1s all linear;
+        }
+        #btn_pay:hover 
+        {
+            background: linear-gradient(#E9E9E9,#EDEDED);
+            box-shadow: 1px 1px 8px -2px #4A4A4A;
+            transition: 0.1s all linear;
+        }
+        .return_link 
+        {
+            padding: 5px;
+            text-decoration: none;
+            font-family: Calibri, Sans-Serif;
+            font-size: 14px;
+            color: rgb(130,130,130);
+        }

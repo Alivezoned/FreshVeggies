@@ -1,0 +1,138 @@
+            .header {
+                width: 1000px;
+                max-width: 1001px; 
+                display: -ms-inline-box;
+                display: flex;
+                background: #F5F5F5;
+                box-shadow: 0px 1px 1px #7D7D7D;
+                padding: 5px;
+            }
+            
+            .logo {
+                min-width: 150px;
+                max-height: 60px;
+                background: whitesmoke;
+            }
+            
+            .logo img {
+                height: 50px;
+            }
+            
+            #fresh_veggies {
+                margin-top: -3px;
+                position: absolute;
+                font-family: sans-serif;
+                font-size: 15px;
+                color: #4CAF50;
+            }
+            
+            .menu_holder {
+                
+            }
+            
+            .menu {
+                list-style-type: none;
+                display: -ms-inline-box;
+                display: flex;
+                margin-top: 25px;
+            }
+            
+            .menu_link_img {
+                margin-right: -12px;
+                height: 25px;
+                width: 22px;
+                background-image: url(../Images/shop_img.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: 0 2px;
+            }
+            
+            .menu_link_img:hover {
+                background-position: 0 -37.1px;
+            }
+            
+            .menu li {
+                border-right: 2px inset #DADADA;
+                display: flex;
+                transition: all 0.2s linear;
+                -ms-transition: all 0.2s linear;
+            }
+            
+            .menu li:hover {
+                box-shadow: 0px -2px 0px #547C82;
+                transition: all 0.2s linear;
+                -ms-transition: all 0.2s linear;
+            }
+            
+            .menu li a {
+                font-weight: bold;
+                color: #797979;
+                text-decoration: none;
+                padding:  5px;
+                margin-left: 10px;
+                margin-right: 10px;
+                transition: all 0.2s linear;
+                -ms-transition: all 0.2s linear;
+            }
+            
+            .cart_item_count {
+                margin-right: 10px;
+                margin-left: -10px;
+                margin-top: 5.3px;
+                height: 14px;
+                width: 15px;
+                border-radius: 50px;
+                background: #2C7B86;
+                color: #FFFFFF;
+                padding: 3px;
+                font-weight: bold;
+                text-align: center;
+                font-size: 11px;
+            }
+            
+            .cart_item_count:hover > body {
+                background: red;
+            }
+
+            .login_holder {
+                margin-left: 40%;
+                padding: 10px;
+                margin-top: 18px;
+                margin-bottom: 10px;
+                border: 1px solid #E4E4E4;
+            }
+            .login_holder a {
+                text-decoration: none;
+                color: #788684;
+                padding: 5px;
+                transition: all 0.2s linear;
+                -ms-transition: all 0.2s linear;
+            }
+            .login_holder a:hover {
+                box-shadow: 0px -2px 0px #03A9F4;
+                transition: all 0.2s linear;
+                -ms-transition: all 0.2s linear;
+            }
+            
+            #selected_page {
+                color: #00BCD4;
+            }
+            
+            .heading {
+                font-family: cursive;
+                font-size: 20px;
+                color: #696969;
+                text-align: center;
+            }
+            
+            body, html {
+                margin: 0;
+                min-width: 1000px;
+            }
+            
+            .site_container {
+                max-width: 1001px; 
+                min-width: 1000px; 
+                margin-left: auto;
+                margin-right: auto; 
+            }   

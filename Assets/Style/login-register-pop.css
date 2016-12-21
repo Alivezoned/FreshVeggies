@@ -1,0 +1,139 @@
+.login_holder_hide
+{
+    visibility: hidden;
+}
+.login_holder_show
+{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    background: rgba(0, 0, 0, 0.62);
+    visibility: visible;
+}
+
+.login_hide, .register_hide
+{
+    padding: 20px;
+    margin: 3% auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-radius: 3px;
+    background: rgba(231, 231, 231, 0.91);
+    position: absolute;
+    box-shadow: 5px 5px 4px -3px black;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.5s all linear;
+}
+.login_popup, .register_popup
+{
+    padding: 20px;
+    margin: 3% auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-radius: 3px;
+    background: rgba(231, 231, 231, 0.91);
+    position: absolute;
+    visibility: visible;
+    opacity: 1;
+    box-shadow: 5px 5px 4px -3px black;
+    transition: 0.5s all linear;
+}
+#login_div { width: 400px; height: 300px; }
+#register_div { width: 400px; height: 530px; }
+
+
+.form_ul li
+{
+    list-style-type: none;
+    display: block;
+    padding: 3px;
+    margin: 1px;
+}
+.form_ul 
+{
+    list-style-type: none;
+    max-width: 320px;
+    margin:0 auto;
+}
+
+#login_div .input_text_class input, 
+#login_div .input_text_class textarea  { padding: 5px; }
+
+#register_div .input_text_class input, 
+#login_div .input_text_class textarea  { padding: 5px; }
+
+.input_text_class input, .input_text_class textarea
+{
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid #535353;
+    box-shadow: 4px 4px 2px -3px #0A0A0A;
+    transition: 0.2s all linear;
+}
+.input_text_class input:hover, 
+.input_text_class input:active, 
+.input_text_class input:focus,
+.input_text_class textarea:hover,
+.input_text_class textarea:active,
+.input_text_class textarea:focus
+{
+    box-shadow: 2px 2px 2px -3px #225324;
+    background: whitesmoke;
+    transition: 0.2s all linear;
+}
+#login_holder input[type=submit], #btn-reset 
+{
+    box-shadow: 3px 4px 3px -3px #222222;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #444444;
+    background: #555555;
+    border-radius: 3px;
+    transition: 0.2s all linear;
+}
+#login_holder input[type=submit]:hover, 
+#login_holder input[type=submit]:focus, 
+#login_holder input[type=submit]:active,
+#btn-reset:hover,
+#btn-reset:focus,
+#btn-reset:active
+{
+    border: 1px solid black;
+    background: rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 2px -2px #191919;
+    transition: 0.2s all linear;
+}
+.login_text_labels 
+{
+    color: #313131;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+#hide_button_1,#hide_button_2 
+{
+    cursor: pointer;
+    color: #FEFEFE;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: cursive;
+    padding: 1px 7px;
+    top: 0;
+    right: 0;
+    margin: 5px 10px;
+    float: right;
+    position: absolute;
+    background: #6A6A6A;
+    transition: 0.2s all linear;
+}
+#hide_button_1:hover,#hide_button_2:hover 
+{
+    background: black;
+    transition: 0.2s all linear;
+}

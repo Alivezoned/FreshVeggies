@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\DJAD\Desktop\Yo" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/FreshVeggies.dll" publishTime="01/10/2016 23:39:33" />
+    <file relUrl="Web.config" publishTime="01/10/2016 23:39:51" />
+    <file relUrl="Webpage/code_adder.aspx" publishTime="01/10/2016 19:59:51" />
+    <file relUrl="bin/FreshVeggies.pdb" publishTime="01/10/2016 23:39:33" />
+    <file relUrl="Index.aspx" publishTime="01/10/2016 23:36:30" />
+    <file relUrl="Site.Master" publishTime="01/10/2016 09:48:58" />
+    <file relUrl="Global.asax" publishTime="01/10/2016 09:48:58" />
+  </publishProfile>
+</publishData>

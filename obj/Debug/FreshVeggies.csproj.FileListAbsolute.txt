@@ -1,0 +1,13 @@
+C:\Users\DJAD\Documents\GIIT Folder\Enquiry Management Project\FreshVeggies\FreshVeggies\obj\Debug\Interop.SSCE.dll
+C:\Users\DJAD\Documents\GIIT Folder\Enquiry Management Project\FreshVeggies\FreshVeggies\obj\Debug\FreshVeggies.csproj.ResolveComReference.cache
+C:\Users\DJAD\Documents\GIIT Folder\Enquiry Management Project\FreshVeggies\FreshVeggies\bin\FreshVeggies.dll
+C:\Users\DJAD\Documents\GIIT Folder\Enquiry Management Project\FreshVeggies\FreshVeggies\bin\FreshVeggies.pdb
+C:\Users\DJAD\Documents\GIIT Folder\Enquiry Management Project\FreshVeggies\FreshVeggies\obj\Debug\FreshVeggies.dll
+C:\Users\DJAD\Documents\GIIT Folder\Enquiry Management Project\FreshVeggies\FreshVeggies\obj\Debug\FreshVeggies.pdb
+C:\Users\DJAD\Documents\Visual Studio 2010\Projects\FreshVeggies\FreshVeggies\bin\FreshVeggies.dll
+C:\Users\DJAD\Documents\Visual Studio 2010\Projects\FreshVeggies\FreshVeggies\bin\FreshVeggies.pdb
+C:\Users\DJAD\Documents\Visual Studio 2010\Projects\FreshVeggies\FreshVeggies\obj\Debug\Interop.SSCE.dll
+C:\Users\DJAD\Documents\Visual Studio 2010\Projects\FreshVeggies\FreshVeggies\obj\Debug\FreshVeggies.csproj.ResolveComReference.cache
+C:\Users\DJAD\Documents\Visual Studio 2010\Projects\FreshVeggies\FreshVeggies\obj\Debug\FreshVeggies.dll
+C:\Users\DJAD\Documents\Visual Studio 2010\Projects\FreshVeggies\FreshVeggies\obj\Debug\FreshVeggies.pdb
+C:\Users\DJAD\Documents\Visual Studio 2010\Projects\FreshVeggies\FreshVeggies\obj\Debug\FreshVeggies.csprojResolveAssemblyReference.cache
